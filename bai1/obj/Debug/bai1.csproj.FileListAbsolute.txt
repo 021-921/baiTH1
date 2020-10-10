@@ -1,0 +1,6 @@
+E:\baithuchanh1\bai1\bai1\bin\Debug\bai1.exe.config
+E:\baithuchanh1\bai1\bai1\bin\Debug\bai1.exe
+E:\baithuchanh1\bai1\bai1\bin\Debug\bai1.pdb
+E:\baithuchanh1\bai1\bai1\obj\Debug\bai1.csprojResolveAssemblyReference.cache
+E:\baithuchanh1\bai1\bai1\obj\Debug\bai1.exe
+E:\baithuchanh1\bai1\bai1\obj\Debug\bai1.pdb
